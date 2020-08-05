@@ -1,0 +1,55 @@
+# Copyright (C) 2020 Ecjia App main
+# This file is distributed under the same license as the Ecjia App main package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ecjia App main 2.18.0\n"
+"Report-Msgid-Bugs-To: https://make.ecjia.com/polyglots/\n"
+"POT-Creation-Date: 2020-06-24 08:18:16+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <ecjia@ecjia.com>\n"
+
+#: classes/Subscribers/AdminHookSubscriber.php:25
+#: classes/Subscribers/AdminHookSubscriber.php:87
+msgid "欢迎使用大商创多商户API管理平台"
+msgstr ""
+
+#: classes/Subscribers/AdminHookSubscriber.php:26
+#: classes/Subscribers/AdminHookSubscriber.php:88
+msgid ""
+"大商创多商户是由上海商创网络科技有限公司推出的，一款对接大商创平台的APP客户端"
+"管理平台，用户通过后台可方便查看APP的活动。"
+msgstr ""
+
+#: classes/Subscribers/AdminHookSubscriber.php:27
+#: classes/Subscribers/AdminHookSubscriber.php:89
+msgid "了解更多 »"
+msgstr ""
+
+#: classes/Subscribers/AdminHookSubscriber.php:51
+msgid "终身商业授权"
+msgstr ""
+
+#: classes/Subscribers/AdminHookSubscriber.php:52
+msgid "授权域名："
+msgstr ""
+
+#: classes/Subscribers/AdminHookSubscriber.php:53
+msgid "恭喜您，您正在使用商业授权版本，享有该系统进行商业运营的合法权利。"
+msgstr ""
+
+#: classes/Subscribers/AdminHookSubscriber.php:54
+msgid "查看授权证书 »"
+msgstr ""
+
+#: configs/package.php:55
+msgid "PC站入口"
+msgstr ""
+
+#: configs/package.php:56
+msgid ""
+"ecjia在PC端展示的主应用，主要是App的功能介绍，截图展示，提供二维码下载。"
+msgstr ""
